@@ -1,0 +1,1 @@
+tellraw @a {"text": "Villainger has loaded.", "color": "#FFD700"}
